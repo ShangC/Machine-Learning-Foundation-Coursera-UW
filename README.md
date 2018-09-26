@@ -5,3 +5,4 @@ This is a practice code and materials repository for
 *by University of Washington*
 in **Coursera**
 
+All codes are written in Python using **Python 3.6, Visual Studio Code, Windows 10**
